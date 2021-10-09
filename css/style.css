@@ -1,10 +1,17 @@
 body{
-    background-color: lightblue;
+    background-color: #002642;
 }
 
 
 h1 {
 
-    color: green;
+    color: #E59500;
 
+}
+
+nav{
+    font-size: large;
+    background-color: #E59500;
+    border-style: solid; width:500px;
+    
 }
